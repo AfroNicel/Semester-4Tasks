@@ -1,2 +1,1 @@
-# Semester-4Tasks
-Tugas Kuliah
+Kumpulan Tugas Sistem Pararel Dan Terdistribusi
